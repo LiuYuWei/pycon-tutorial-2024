@@ -1,7 +1,7 @@
 # pycon 2024 Tutorial
 PyCon 2024 - 探索大型語言模型實戰方法：透過 Python 將 LLM 服務化、RAG 知識管理、Fine-Tune 模型在 AI 專案中
 
-這個 Repository 包含了 PyCon 2024 的三個教程 Notebook，透過使用 Google Colab 提供了對不同模型和技術的深入學習。
+這個 Repository 包含了 PyCon 2024 的四個教程 Notebook，透過使用 Google Colab 提供了對不同模型和技術的深入學習。
 
 ## Notebook Links
 
