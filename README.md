@@ -5,13 +5,16 @@ PyCon 2024 - 探索大型語言模型實戰方法：透過 Python 將 LLM 服務
 
 ## Notebook Links
 
-1. [Ollama Model Service Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-2024/blob/main/PyCon-2024-Tutorial_Ollama-Model-Service.ipynb)  
+1. [Google Gemini Quickstart](https://colab.research.google.com/github/LiuYuWei/pycon-tutorial-2024/blob/main/PyCon-2024-Tutorial_Google-Gemini-Quickstart.ipynb)
+   讓大家可以快速了解 Google Gemini API 如何進行使用。
+   
+3. [Ollama Model Service Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-tutorial-2024/blob/main/PyCon-2024-Tutorial_Ollama-Model-Service.ipynb)  
    探討如何使用 Ollama 進行模型服務的設置與操作。
 
-2. [Ollama LLM Model and RAG Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-2024/blob/main/PyCon-2024-Tutorial_Ollama-LLM-Model-and-RAG.ipynb)  
+4. [Ollama LLM Model and RAG Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-tutorial-2024/blob/main/PyCon-2024-Tutorial_Ollama-LLM-Model-and-RAG.ipynb)  
    講解如何將 Ollama 的 LLM 模型與 RAG（檢索增強生成）技術結合使用。
 
-3. [Gemma-2b LORA Fine-Tuning Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-2024/blob/main/PyCon-2024-Tutorial_Gemma-2b-LORA-Fine-Tuning.ipynb)  
+5. [Gemma-2b LORA Fine-Tuning Tutorial](https://colab.research.google.com/github/LiuYuWei/pycon-tutorial-2024/blob/main/PyCon-2024-Tutorial_Gemma-2b-LORA-Fine-Tuning.ipynb)  
    詳細介紹了使用 Gemma-2b 模型進行 LORA（Low-Rank Adaptation）微調的過程和應用。
 
 ---
